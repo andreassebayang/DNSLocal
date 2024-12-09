@@ -1,0 +1,1 @@
+CLOUDFLARED_OPTS=--port 5053 --upstream https://dns.cloudflare.com/dns-query
